@@ -1,4 +1,4 @@
-public class Armor {
+public class Armor extends Item {
 public float Protection;
 
 }
